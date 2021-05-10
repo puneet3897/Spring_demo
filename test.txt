@@ -1,0 +1,6 @@
+maven : dependency apne aap daal deta hai according to POM.XML FILE :> CREATE Project : maven _> webapp
+=>mvn clean install (when u download any maven project in order to resolve the dependency of tthat project
+
+MAVEN requiremnts :
+1. maven download
+2. user=> .m2 +> setiing.xml
